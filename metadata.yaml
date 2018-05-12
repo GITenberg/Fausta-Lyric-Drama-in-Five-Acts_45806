@@ -1,0 +1,65 @@
+_repo: Fausta-Lyric-Drama-in-Five-Acts_45806
+_version: 0.1.0
+contributor:
+  contributor:
+    agent_name: Goethe, Johann Wolfgang von
+    aliases:
+    - Von Goethe, Johann Wolfgang
+    - Goethe, J. W. (Johann Wolfgang)
+    birthdate: 1749
+    deathdate: 1832
+    gutenberg_agent_id: '586'
+    url: http://www.gutenberg.org/2009/agents/586
+    wikipedia: http://en.wikipedia.org/wiki/Johann_Wolfgang_von_Goethe
+covers:
+- cover_type: archival
+  image_path: 45806-h/images/cover_image.jpg
+creator:
+  authors:
+  - agent_name: Barbier, Jules
+    aliases:
+    - Barbier, P.-J. (Paul Jules)
+    - Barbier, Paul Jules
+    - Barbier, Giulio
+    - Barbier, J. (Jules)
+    birthdate: 1825
+    deathdate: 1901
+    gutenberg_agent_id: '43465'
+    url: http://www.gutenberg.org/2009/agents/43465
+  - agent_name: Carré, Michel
+    aliases:
+    - Carré, M. (Michel)
+    - Carré, Michael
+    - Carré, Michele
+    - Carre, Michel
+    birthdate: 1819
+    deathdate: 1872
+    gutenberg_agent_id: '43466'
+    url: http://www.gutenberg.org/2009/agents/43466
+  - agent_name: Gounod, Charles
+    aliases:
+    - Gounod, Charles Francois
+    - Gounod, Charles François
+    birthdate: 1818
+    deathdate: 1893
+    gutenberg_agent_id: '26402'
+    url: http://www.gutenberg.org/2009/agents/26402
+    wikipedia: http://en.wikipedia.org/wiki/Charles_Gounod
+description: ''
+gutenberg_bookshelf:
+- FR Musique
+- Opera
+gutenberg_issued: '2014-05-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45806'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Faust, -approximately 1540 -- Drama'
+- !lcc 'ML'
+- !lcsh 'Operas -- Librettos'
+title: 'Faust: A Lyric Drama in Five Acts'
+url: http://www.gutenberg.org/ebooks/45806
